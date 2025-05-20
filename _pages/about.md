@@ -25,7 +25,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I’m Joseph, a Computer Science Engineering student with a passion for technology and problem-solving. From an early age, I’ve been fascinated by how software and systems work, driving me to explore programming, development, and innovation. 
+
+My goal is to create efficient, impactful solutions while continuously learning in this fast-evolving field.
+
+Thanks for visiting my portfolio—let’s connect and build the future of tech together!.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
